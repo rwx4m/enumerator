@@ -89,4 +89,5 @@ The script will print the password if found, or exit silently when exhausted.
 
 **rwx4m**
 GitHub: [https://github.com/rwx4m](https://github.com/rwx4m)
+
 ---
