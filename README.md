@@ -1,5 +1,4 @@
-````markdown
-# 🔐 enumerator
+# 🔐 Enumerator
 
 A fast and focused web login **enumeration & brute-force toolkit** built for offensive security and CTF use cases.
 
@@ -22,7 +21,7 @@ Performs username enumeration against web login forms that return different mess
 
 ```bash
 ./check-username.sh <url> <fake-password> <userlist> [cookie]
-````
+```
 
 * `<url>`: Target login endpoint (e.g., `http://site/login.php`)
 * `<fake-password>`: Random string to trigger login failure
@@ -91,9 +90,4 @@ The script will print the password if found, or exit silently when exhausted.
 **rwx4m**
 🔗 GitHub: [https://github.com/rwx4m](https://github.com/rwx4m)
 
-```
-
 ---
-
-Kalau kamu butuh file `README.md` ini dikirim langsung sebagai file `.md`, beri tahu saja — atau saya bisa bantu generate juga `.zip` repo ready-to-push. Siap bantu tahap deploy!
-```
