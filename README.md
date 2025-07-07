@@ -64,7 +64,7 @@ The script will print the password if found, or exit silently when exhausted.
 
 ---
 
-## ⚡ Features
+## Features
 
 * Clean, readable terminal output
 * Real-time progress bar
@@ -75,7 +75,7 @@ The script will print the password if found, or exit silently when exhausted.
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Both scripts use `curl` for HTTP requests
 * Works best on targets that leak user validity via messages like:
@@ -85,9 +85,8 @@ The script will print the password if found, or exit silently when exhausted.
 
 ---
 
-## ✍️ Author
+## Author
 
 **rwx4m**
-🔗 GitHub: [https://github.com/rwx4m](https://github.com/rwx4m)
-
+GitHub: [https://github.com/rwx4m](https://github.com/rwx4m)
 ---
