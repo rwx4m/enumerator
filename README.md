@@ -1,4 +1,4 @@
-# 🔐 Enumerator
+# Enumerator
 
 A fast and focused web login **enumeration & brute-force toolkit** built for offensive security and CTF use cases.
 
@@ -10,7 +10,7 @@ Author: [**rwx4m**](https://github.com/rwx4m)
 
 ---
 
-## 📁 Included Tools
+## Included Tools
 
 ### 1. `Check Username`
 
